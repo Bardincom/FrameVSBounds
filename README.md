@@ -8,4 +8,4 @@ RU
 Чтобы визуализировать на практике и понять разницу по мотивам этой [Статье](https://medium.com/@vladislav.mityuklyaev/различие-frame-и-bounds-в-ios-frame-vs-bounds-in-ios-4e5aee5ed477), я сделал простенькое приложение, которое поможет вам  закрепить эти знания и “пощупать” самостоятельно разницу между Frame и Bounds.
 
 
-![Example](https://ibb.co/3MqvfGg"><img src="https://i.ibb.co/QCRk8zy/2020-10-23-22-53-36.png)
+![Example](https://i.ibb.co/QCRk8zy/2020-10-23-22-53-36.png)
